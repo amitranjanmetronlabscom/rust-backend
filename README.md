@@ -1,5 +1,5 @@
 
-# Project Title
+# Title
 
 Rust backend.
 
