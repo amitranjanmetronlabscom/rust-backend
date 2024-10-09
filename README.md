@@ -31,7 +31,7 @@ A rust application for building an investigation page.
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+cargo help
 ```
 
 ## Authors
