@@ -13,11 +13,6 @@ A rust application for building an investigation page.
 
 * cargo build will install all dependencies.
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 * How to run the program
