@@ -22,13 +22,3 @@ rust-backend/
 ├── Cargo.toml
 └── README.md
 
-
-
-https://integration.cybereason.net:8443/rest/savedQueries/create
-payload -
-{"queryString":"{\"items\":[{\"elementType\":\"Machine\"},{\"featureName\":\"users\",\"reverse\":false,\"elementType\":\"User\"}],\"_resultIndex\":1,\"_features\":[],\"config\":{\"checkCountsFirst\":false,\"timeLimit\":120,\"countLimit\":\"100\"},\"_filters\":{\"time\":null,\"suspicion\":null,\"guids\":[],\"feature\":[]}}","name":"Users - 2024-10-08 17:06","description":"Testing"}
-
-https://integration.cybereason.net:8443/rest/savedQueries/delete
-payload-
-{"id":40}
-
